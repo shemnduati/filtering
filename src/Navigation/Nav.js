@@ -10,7 +10,7 @@ import {  AiOutlineUserAdd, AiOutlineShoppingCart } from 'react-icons/ai';
         <input type='text' className='search-input' placeholder='Enter your search' />
       </div>
       <div className='profile-container'>
-        <a href='/'><FiHeart className='na-icons' /></a>
+        <a href='/'><FiHeart className='nav-icons' /></a>
         <a href='/'><AiOutlineUserAdd className='nav-icons' /></a>
         <a href='/'><AiOutlineShoppingCart className='nav-icons' /></a>
       </div>
